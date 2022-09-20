@@ -1,0 +1,12 @@
+
+1663698027315
+INFORMATION:	Setup test object for second.test.WebServiceTest.getJsonDeserialized
+
+1663698030268
+SUCCESS:	Test Passed
+
+1663698030268
+VERBOSE:	Start dispose
+
+1663698030283
+VERBOSE:	End dispose
